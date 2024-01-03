@@ -282,6 +282,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media", "stream"],
       error: false
     },
+{
+      name: "Snapchat",
+      link: "https://www.snapchat.com",
+      image: "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
   ];
     
   
