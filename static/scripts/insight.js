@@ -268,6 +268,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media", "stream"],
       error: false
     },
+    {
+      name: "Facebook",
+      link: "https://facebook.com",
+      image: "https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
   ];
     
   
