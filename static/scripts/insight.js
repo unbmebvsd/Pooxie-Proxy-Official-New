@@ -282,10 +282,24 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media", "stream"],
       error: false
     },
-{
+    {
       name: "Snapchat",
       link: "https://www.snapchat.com",
       image: "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
+    {
+      name: "Netflix",
+      link: "https://www.netflix.com",
+      image: "https://store-images.s-microsoft.com/image/apps.56161.9007199266246365.1d5a6a53-3c49-4f80-95d7-78d76b0e05d0.a3e87fea-e03e-4c0a-8f26-9ecef205fa7b",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
+    {
+      name: "Disney Plus",
+      link: "https://www.disneyplus.com",
+      image: "https://i.insider.com/5dc5bb0e3afd37438b304b78",
       categories: ["all", "media", "stream"],
       error: false
     },
