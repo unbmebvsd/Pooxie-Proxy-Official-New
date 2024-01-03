@@ -275,6 +275,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media", "stream"],
       error: false
     },
+     {
+      name: "Instagram",
+      link: "https://www.instagram.com",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
   ];
     
   
