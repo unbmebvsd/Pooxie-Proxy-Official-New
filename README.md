@@ -1,3 +1,4 @@
+<a href="https://github.com/pooxie-proxy/Pooxie-Proxy-Official/blob/main/README.md">README</a> <a href="https://github.com/pooxie-proxy/Pooxie-Proxy-Official/blob/main/Terms%20and%20conditions.md">Terms and conditions</a> <a href="https://github.com/pooxie-proxy/Pooxie-Proxy-Official/blob/main/Privacy%20Policy.md">Terms and conditions</a>
 <center><img src=/static/main_inverted.png
           <b>
           <div class="title">
