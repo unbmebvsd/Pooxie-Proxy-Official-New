@@ -280,7 +280,8 @@ document.addEventListener('DOMContentLoaded', () => {
       link: "https://www.instagram.com",
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png",
       categories: ["all", "media", "stream"],
-      error: true
+      error: true,
+      say: "Instagram is currently not working on the proxy."
     },
     {
       name: "Snapchat",
@@ -301,6 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link: "https://www.disneyplus.com",
       image: "https://i.insider.com/5dc5bb0e3afd37438b304b78",
       categories: ["all", "media", "stream"],
+      say: "Disney plus is currently not working on the proxy.",
       error: true
     },
   ];
