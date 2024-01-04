@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "Poodle School",
       link: "https://www.poodleschool.net",
-      image: "https://lh5.googleusercontent.com/qPxLibpEi5tlpb93j2_muJNCzsgeUwG2Ki8-V-Yxkjnv1Y_IjKRCC1lWWTVtge93ASkeXwpBbAX2txX5HD8UD5U=w16383",
+      image: "IMG_1364-removebg-preview.png",
       categories: ["all", "media", "stream"],
       say: "The space pigeons are delivering you to the requested website",
       error: false
