@@ -305,6 +305,14 @@ document.addEventListener('DOMContentLoaded', () => {
       say: "Disney plus is currently not working on the proxy.",
       error: true
     },
+    {
+      name: "Poodle School",
+      link: "https://www.poodleschool.net",
+      image: "https://lh5.googleusercontent.com/qPxLibpEi5tlpb93j2_muJNCzsgeUwG2Ki8-V-Yxkjnv1Y_IjKRCC1lWWTVtge93ASkeXwpBbAX2txX5HD8UD5U=w16383",
+      categories: ["all", "media", "stream"],
+      say: "The space pigeons are delivering you to the requested website",
+      error: false
+    },
   ];
     
   
