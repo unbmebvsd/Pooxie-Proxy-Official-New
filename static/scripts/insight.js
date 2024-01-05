@@ -258,14 +258,14 @@ document.addEventListener('DOMContentLoaded', () => {
       name: "Idiot",
       link: "https://poodleschool.github.io/idiot",
       image: "/images/icons/apps/your-an-idiot.png",
-      categories: ["all", "media", "stream"],
+      categories: ["all"],
       error: false
     },
     {
       name: "Exploits",
       link: "https://docs.google.com/document/d/1Kgdm4FLFkQAFChptymQBb5mDZebCQ9Bmf1MR_gQXtAY/edit?usp=sharing",
       image: "/images/icons/newlmango65.png",
-      categories: ["all", "media", "stream"],
+      categories: ["all"],
       error: false
     },
     {
@@ -287,7 +287,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: "Snapchat",
       link: "https://www.snapchat.com",
       image: "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
-      categories: ["all", "media", "stream"],
+      categories: ["all", "social", "stream"],
       error: false
     },
     {
@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: "Poodle School",
       link: "https://www.poodleschool.net",
       image: "IMG_1364-removebg-preview.png",
-      categories: ["all", "media", "stream"],
+      categories: ["all"],
       say: "The space pigeons are delivering you to the requested website",
       error: false
     },
