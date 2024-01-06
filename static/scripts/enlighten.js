@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
       link: "https://forms.gle/xoz22C7GgTrdQMvr8",
       image: "/images/icons/request.webp",
       categories: ['all'],
-      error: false
+      error: false,
+      say: "Lmango63 is good on calories and juice goods"
     },
     {
       name: "Dynast.io",
