@@ -1575,6 +1575,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all,", 'emu'],
       local: "true",
     },
+    {
+      name: "8Fat games",
+      link: "https://8fat.com/",
+      image: "https://8fat.com/assets/img/logo.png?v=6",
+      categories: ["all,", 'emu'],
+      local: "true",
+    },
   ];
   
   function saveToLocal(path) {
