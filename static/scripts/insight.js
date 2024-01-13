@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
      {
       name: "Brave",
-      link: "https://brave.com",
+      link: "https://replit.com/@OwenLee11/Brave-Browser#latest",
       image: "/images/icons/IMG_1368-removebg-preview.png",
       categories: ["all"],
       say: "The web version might be down",
