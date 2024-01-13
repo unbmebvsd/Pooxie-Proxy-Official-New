@@ -313,6 +313,14 @@ document.addEventListener('DOMContentLoaded', () => {
       say: "The space pigeons are delivering you to the requested website",
       error: false
     },
+     {
+      name: "Brave",
+      link: "https://brave.com",
+      image: "IMG_1368-removebg-preview.png",
+      categories: ["all"],
+      say: "The web version might be down",
+      error: false
+    },
   ];
     
   
