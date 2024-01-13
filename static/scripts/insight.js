@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "Poodle School",
       link: "https://www.poodleschool.net",
-      image: "IMG_1364-removebg-preview.png",
+      image: "/images/icons/IMG_1364-removebg-preview.png",
       categories: ["all"],
       say: "The space pigeons are delivering you to the requested website",
       error: false
@@ -316,7 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
      {
       name: "Brave",
       link: "https://brave.com",
-      image: "IMG_1368-removebg-preview.png",
+      image: "/images/icons/IMG_1368-removebg-preview.png",
       categories: ["all"],
       say: "The web version might be down",
       error: false
