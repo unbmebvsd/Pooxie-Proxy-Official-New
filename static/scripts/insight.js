@@ -321,6 +321,14 @@ document.addEventListener('DOMContentLoaded', () => {
       say: "The web version might be down",
       error: false
     },
+    {
+      name: "Opera GX",
+      link: "https://www.poodleschool.net/home-pages/miscellaneous/poodle-browser"
+      image: "/images/icons/IMG_1369.webp",
+      categories: ["all"],
+      say: "The web version might be down",
+      error: false
+    },
   ];
     
   
