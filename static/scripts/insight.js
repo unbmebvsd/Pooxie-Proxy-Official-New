@@ -329,6 +329,14 @@ document.addEventListener('DOMContentLoaded', () => {
       say: "The web version might be down",
       error: false
     },
+    {
+      name: "Google Chrome",
+      link: "https://www.browserling.com/browse/win10/chrome119/poodleschool.net"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png",
+      categories: ["all"],
+      say: "The web version might be down",
+      error: false
+    },
   ];
     
   
