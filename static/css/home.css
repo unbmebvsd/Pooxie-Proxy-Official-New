@@ -18,7 +18,7 @@ body {
 	position: relative;
 	top: -10vh;
 	font-size: 9vh;
-	color: #72BDA3;
+	color: var(--colpal2);
 	text-align: center;
 	text-transform: uppercase;
 	border-radius: 0px 0px 5px 5px;
@@ -46,9 +46,9 @@ body {
 
 @keyframes titlechange {
 
-0% {color: #72BDA3;}
+0% {color: var(--colpal2);}
 50% {color: #ffffff;}
-100% {color: #72BDA3;}
+100% {color: var(--colpal2);}
 }
 
 .description {
