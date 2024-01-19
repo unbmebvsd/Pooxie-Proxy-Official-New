@@ -33,16 +33,23 @@
         <a class="navbar-link" href="https://docs.google.com/document/d/1ZWOmg-eufiuBCMQq56kltfoPHtx47pGo717PJRoz62w/edit?usp=sharing"><i class="fa-solid fa-circle-question navbar-icon settings-icon"></i>Request Feature / Help</a>
      </div></div></div></div>
   <!-- Nav Bar End-->
-        <style>
+       <head>
+  <link rel="stylesheet" href="pookieProx.css">
+    
+    <style>
 ::placeholder {
-  color: #94E8B4;
+  color: var(--colpal1);
   opacity: 1; /* Firefox */
 }
 
 ::-ms-input-placeholder { /* Edge 12-18 */
-  color: #94E8B4;
+  color: var(--colpal1);
 }
-           </style>
+    
+</style>
+
+      <link>
+    </head>
     <div class="input-container">
       <input type="text" id="searchbarbottom" onkeyup="search_game()" placeholder="Search">
       <select id="category" name="category" onchange="showImages()">
