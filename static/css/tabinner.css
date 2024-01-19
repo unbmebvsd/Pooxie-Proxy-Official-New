@@ -1,5 +1,19 @@
+:root {
+  --5colpal1: #94E8B4;
+  --5colpal2: #72BDA3;
+  --5colpal3: #5E8C61;
+  --5colpal4: #4E6151;
+  --5colpalDarkNav: #395F52;
+  --5onyxcol: #3A3B41;
+  --5brightcol: #ffffff;
+}
+
+
+
+
+
 body {
-    background-color: #3A3B41;
+    background-color: var(--5onyxcol);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +23,7 @@ body {
 .search-container {
     display: flex;
     align-items: center;
-    background-color: #4E6151;
+    background-color: var(--5colpal4);
     border-radius: 50px;
     padding: 5px;
     overflow: hidden;
@@ -29,9 +43,9 @@ body {
     align-items: center;
     width: 40px;
     height: 40px;
-    background-color: #5E8C61;
+    background-color: var(--5colpal3);
     border-radius: 50%;
-    color: #fff;
+    color: var(--5brightcol);
     cursor: crosshair;
     z-index: 1;
     position: relative;
@@ -48,7 +62,7 @@ body {
     background-color: transparent;
     border: none;
     outline: none;
-    color: #fff;
+    color: var(--5brightcol);
     padding: 0 10px;
     font-size: 16px;
     position: absolute;
